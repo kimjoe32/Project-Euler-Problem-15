@@ -50,10 +50,6 @@ public class p27
                     maxPrimes = currentPrimes;
                     productAB = a * b;
                 }
-//                if (currentPrimes > 0)
-//                {
-//                    System.out.println("a = " + a + " b = " + b + " currentPrimes = " + currentPrimes);
-//                }
             }
         }
         
