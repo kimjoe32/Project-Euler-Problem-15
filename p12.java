@@ -1,4 +1,4 @@
-package p24;
+package p12;
 
 import static java.lang.Math.sqrt;
 import java.util.HashMap;
